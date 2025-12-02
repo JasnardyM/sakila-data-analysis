@@ -1,0 +1,20 @@
+sakila-data-analysis/
+│
+├── 01_scripts/
+│   ├── load_schema.sql
+│   ├── load_data.sql
+│   ├── check_duplicates.sql
+│   ├── check_nulls.sql
+│
+├── 02_analysis/
+│   ├── top_customers.sql
+│   ├── top_movies.sql
+│   ├── revenue_by_category.sql
+│   ├── rentals_by_store.sql
+│
+├── 03_outputs/
+│   ├── duplicates_report.png
+│   ├── nulls_report.png
+│   └── sakila_diagram.png
+│
+└── README.md
